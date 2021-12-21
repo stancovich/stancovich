@@ -1,4 +1,4 @@
-### Helo beautiful people, Simon. 👋
+### Hello beautiful people, I'm Simon. 👋
 
 
 ## I'm a Developer and AI enthusiast !!
