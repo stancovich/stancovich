@@ -1,13 +1,14 @@
-### Hello beautiful people, I'm Simon. 👋
+## Hello there! I'm Simon. 👋
 
 
 ## I'm a Developer and AI enthusiast !!
 
-- 🔭 Currently working at an Insurtech company
-- 🌱 Deeply involved in AI to make the world better.
-- 👯 I’m looking to collaborate with other content creators
+- 👨🏽‍💻 Currently working at an Insurtech company
+- 🤖 Building AI to try making the world better.
+- 🎌 Learning Japanese.
 
-### Connect with me:
+
+## Connect with me:
 
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
