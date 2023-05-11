@@ -3,7 +3,7 @@
 
 ## I'm a Developer and AI enthusiast !!
 
-- 👨🏽‍💻 Currently working at an Insurtech company
+- 👨🏽‍💻 Currently working at a tech agency called QTE development.
 - 🤖 Building AI to try making the world better.
 - 🎌 Learning Japanese.
 
